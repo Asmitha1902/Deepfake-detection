@@ -1,6 +1,6 @@
 # DeepFake Detection System
 
-## Problem Statement 1683: Development of AI/ML Based Solution for Detection of DeepFake Videos of Face Swap
+## Problem Statement : Development of AI/ML Based Solution for Detection of DeepFake Videos of Face Swap
 
 ### Background
 
