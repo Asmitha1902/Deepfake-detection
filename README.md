@@ -58,21 +58,21 @@ pip install -r requirements.txt
 
  ** Backend Setup (Flask) **
 
-**Navigate to the backend directory:
+**Navigate to the backend directory:-
 cd backend
 
-**Start the Flask server:
+**Start the Flask server:-
 python app.py
 
-** Frontend Setup (React) **
+** Frontend Setup (React) 
 
 **Navigate to the frontend directory:
 cd frontend
 
-**Install dependencies:
+**Install dependencies:-
 npm install
 
-**Start the React app:
+**Start the React app:- 
 npm run dev
 
 
